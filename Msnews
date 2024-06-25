@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mississippi News Sources</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mississippi News Sources</h1>
+
+    <h2>Newspapers</h2>
+    <ul>
+        <li><a href="https://www.clarionledger.com" target="_blank">Clarion Ledger</a></li>
+        <li><a href="https://www.sunherald.com" target="_blank">Sun Herald</a></li>
+        <li><a href="https://www.djournal.com" target="_blank">Northeast Mississippi Daily Journal</a></li>
+        <li><a href="https://www.meridianstar.com" target="_blank">The Meridian Star</a></li>
+        <li><a href="https://www.cdispatch.com" target="_blank">The Commercial Dispatch</a></li>
+        <li><a href="https://www.hattiesburgamerican.com" target="_blank">Hattiesburg American</a></li>
+        <li><a href="https://www.vicksburgpost.com" target="_blank">The Vicksburg Post</a></li>
+        <li><a href="https://www.ddtonline.com" target="_blank">Delta Democrat Times</a></li>
+        <li><a href="https://www.natchezdemocrat.com" target="_blank">The Natchez Democrat</a></li>
+        <li><a href="https://www.gwcommonwealth.com" target="_blank">The Greenwood Commonwealth</a></li>
+    </ul>
+
+    <h2>Television Stations</h2>
+    <ul>
+        <li><a href="https://www.wapt.com" target="_blank">WAPT</a></li>
+        <li><a href="https://www.wlbt.com" target="_blank">WLBT</a></li>
+        <li><a href="https://www.wjtv.com" target="_blank">WJTV</a></li>
+        <li><a href="https://www.wlox.com" target="_blank">WLOX</a></li>
+        <li><a href="https://www.wdam.com" target="_blank">WDAM</a></li>
+        <li><a href="https://www.wcbi.com" target="_blank">WCBI</a></li>
+        <li><a href="https://www.wtva.com" target="_blank">WTVA</a></li>
+        <li><a href="https://www.wtok.com" target="_blank">WTOK</a></li>
+        <li><a href="https://www.cbs24tv.com" target="_blank">WMDN</a></li>
+        <li><a href="https://www.yourdeltanews.com" target="_blank">WABG</a></li>
+    </ul>
+
+    <h2>Radio Stations</h2>
+    <ul>
+        <li><a href="http://www.mpbonline.org" target="_blank">Mississippi Public Broadcasting</a></li>
+        <li><a href="https://www.supertalk.fm" target="_blank">SuperTalk Mississippi</a></li>
+        <li><a href="https://www.wjsu.org" target="_blank">WJSU</a></li>
+        <li><a href="https://www.wzrx.com" target="_blank">WZRX</a></li>
+        <li><a href="http://www.wyab.com" target="_blank">WYAB</a></li>
+    </ul>
+
+    <h2>Online News Sources</h2>
+    <ul>
+        <li><a href="https://mississippitoday.org" target="_blank">Mississippi Today</a></li>
+        <li><a href="https://www.magnoliastatelive.com" target="_blank">Magnolia State Live</a></li>
+        <li><a href="https://yallpolitics.com" target="_blank">Y'all Politics</a></li>
+        <li><a href="https://themississippilink.com" target="_blank">The Mississippi Link</a></li>
+        <li><a href="https://www.northsidesun.com" target="_blank">The Northside Sun</a></li>
+    </ul>
+
+    <h2>Magazines</h2>
+    <ul>
+        <li><a href="https://www.mismag.com" target="_blank">Mississippi Magazine</a></li>
+        <li><a href="https://www.deltamagazine.com" target="_blank">Delta Magazine</a></li>
+        <li><a href="https://ourmississippi.org" target="_blank">Our Mississippi</a></li>
+    </ul>
+</body>
+</html>
